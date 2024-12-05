@@ -1,2 +1,2 @@
-# qwasar
+# Qwasar
 All the tasks
